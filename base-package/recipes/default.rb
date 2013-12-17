@@ -2,7 +2,7 @@
 # Cookbook Name:: base-package
 # Recipe:: default
 #
-# Copyright 2013, YOUR_COMPANY_NAME
+# Copyright 2013, 1PAC.INC.
 #
 # All rights reserved - Do Not Redistribute
 #
